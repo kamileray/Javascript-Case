@@ -1,2 +1,2 @@
 # Javascript-Case
-Javascript Case Solution
+Javascript Case Solution for patika.dev
